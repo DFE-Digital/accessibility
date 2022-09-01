@@ -1,0 +1,48 @@
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K11EVHSR12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K11EVHSR12');
+</script>
+https://accessibility.education.gov.uk/favicon.ico
+https://accessibility.education.gov.uk/search/
+https://accessibility.education.gov.uk/api/pages.json
+https://accessibility.education.gov.uk/accessibility-statement-partial-html-raw
+https://accessibility.education.gov.uk/googlefacf5ebcd086d0a0.html
+https://accessibility.education.gov.uk/robots.txt
+https://accessibility.education.gov.uk/accessibility-statement-partial-html
+https://accessibility.education.gov.uk/accessibility-statement.html
+https://accessibility.education.gov.uk/sitemap.xml
+https://accessibility.education.gov.uk/
+https://accessibility.education.gov.uk/feedback.html
+https://accessibility.education.gov.uk/tools.html
+https://accessibility.education.gov.uk/contribute.html
+https://accessibility.education.gov.uk/digital-inclusion.html
+https://accessibility.education.gov.uk/accessibility-statement-notmet-html
+https://accessibility.education.gov.uk/overview.html
+https://accessibility.education.gov.uk/accessibility-audit.html
+https://accessibility.education.gov.uk/sitemap.txt
+https://accessibility.education.gov.uk/statement-templates/notmet-md-raw.html
+https://accessibility.education.gov.uk/statement-templates/partial-html-raw.html
+https://accessibility.education.gov.uk/statement-templates/notmet-html.html
+https://accessibility.education.gov.uk/statement-templates/notmet-html-raw.html
+https://accessibility.education.gov.uk/statement-templates/partial-md-raw.html
+https://accessibility.education.gov.uk/statement-templates/full-md-raw.html
+https://accessibility.education.gov.uk/statement-templates/full-html-raw.html
+https://accessibility.education.gov.uk/statement-templates/partial-html.html
+https://accessibility.education.gov.uk/statement-templates/full-html.html
+https://accessibility.education.gov.uk/accessibility-statement-full-html
+https://accessibility.education.gov.uk/accessibility-statement-full-html-raw
+https://accessibility.education.gov.uk/CNAME
+https://accessibility.education.gov.uk/accessibility-statement-notmet-html-raw
+https://accessibility.education.gov.uk/training.html
+https://accessibility.education.gov.uk/laws-and-standards.html
+https://accessibility.education.gov.uk/roles.html
+https://accessibility.education.gov.uk/assets/govuk/assets/fonts/bold-b542beb274-v2.woff2
+https://accessibility.education.gov.uk/assets/govuk/assets/fonts/light-94a07e06a1-v2.woff2
+https://accessibility.education.gov.uk/assets/govuk/assets/images/favicon.ico
+https://accessibility.education.gov.uk/search.json
